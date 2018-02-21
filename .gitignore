@@ -1,0 +1,4 @@
+.htmlhintrc
+.jshintrc
+node_modules/
+.DS_Store
